@@ -7,3 +7,5 @@
 #
 layout: home
 ---
+         <p>{{ site.description | escape }}</p>
+
