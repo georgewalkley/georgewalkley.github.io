@@ -7,5 +7,5 @@
 #
 layout: home
 ---
-         {{ site.description }}
+<h3>Outside Context is a boutique consultancy specialising in strategy, research and development, digital transformation, and corporate innovation.</h3>.
 
