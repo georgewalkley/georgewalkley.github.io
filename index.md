@@ -7,7 +7,7 @@
 #
 layout: home
 ---
-<img src="wave.jpeg" />
+<img src="https://www.outsidecontext.co.uk/wave.jpeg" />
 
 Outside Context is a boutique consultancy specialising in strategy, research and development, digital transformation, and corporate innovation.
 
