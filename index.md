@@ -7,5 +7,5 @@
 #
 layout: home
 ---
-         {{ site.description | escape }}
+         {{ site.description }}
 
