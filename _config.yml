@@ -1,12 +1,9 @@
 title: Outside Context
 author:
-  name: George Walkley
-  email: george@outsidecontext.co.uk
+  name: +44 7592 533637
+  email: hello@outsidecontext.co.uk
 description: > # this means to ignore newlines until "show_excerpts:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
-
+  Outside Context is a boutique consultancy specialising in strategy, digital transformation and innovation.
 show_excerpts: false # set to true to show excerpts on the homepage
 
 # Minima date format
