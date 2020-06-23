@@ -30,65 +30,12 @@ We may update this privacy notice from time to time. This version was last updat
 
 2.1. Set out below are the general categories and details of retention periods in relation to those categories (see section 8 below for more details about retention) and in each case the types of personal information that we collect, use and hold about you:
 
-General Category
-
-Types of Personal Data in that category
-
-Retention Periods
-
-Identity information
-
-This is information relating to your identity such as your name (including any previous names and any titles that you use), gender, marital status and date of birth
-
-specify how long these types of data will be kept
-
-Contact information
-
-This is information relating to your contact details such as email address, addresses, telephone numbers
-
-specify how long these types of data will be kept
-
-Account information
-
-This is information relating to your account with us (including username and password)
-
-specify how long these types of data will be kept
-
-Payment information
-
-This is information relating to the methods by which you provide payment to us such as [bank account details, credit or debit card details] and details of any payments (including amounts and dates) that are made between us
-
-specify how long these types of data will be kept
-
-Transaction information
-
-This is information relating to transactions between us such as details of the goods, services and/or digital content provided to you and any returns details
-
-specify how long these types of data will be kept
-
-Survey information
-
-This is information that we have collected from you or that you have provided to us in respect of surveys and feedback
-
-specify how long these types of data will be kept
-
-Marketing information
-
-This is information relating to your marketing and communications preferences
-
-specify how long these types of data will be kept
-
-Website, Device and Technical Information
-
-This is information about your use of our website and technical data which we collect (including your IP address, the type of browser you are using and the version, the operating system you are using, details about the time zone and location settings on the device and other information we receive about your device)
-
-specify how long these types of data will be kept
-
-Any other information
-
-TYPES
-
-specify how long these types of data will be kept
+* Contact information, such as email address, addresses, telephone numbers.
+* Payment information, relating to the methods by which you provide payment to us and details of any payments (including amounts and dates) that are made between us
+* Transaction information, relating to transactions between us such as details of the services provided to you
+* Survey information that we have collected from you or that you have provided to us in respect of surveys and feedback
+* Marketing information, relating to your marketing and communications preferences
+* Website, Device and Technical Information, related to your use of our website and technical data which we collect (including your IP address, the type of browser you are using and the version, the operating system you are using, details about the time zone and location settings on the device and other information we receive about your device)
 
 2.2. The types of personal data we collect about you may differ from person to person, depending on who you are and the relationship between us.
 
@@ -100,13 +47,10 @@ specify how long these types of data will be kept
 
 4.1. We are only able to use your personal information for certain legal reasons set out in data protection law. There are legal reasons under data protection law other than those listed below; but, in most cases, we will use your personal information for the following legal reasons:
 
-*Contract Reason: this is in order to perform our obligations to you under a contract we have entered into with you;
-
-*Legitimate Interests Reason: this is where the use of your personal information is necessary for our (or a third party’s) legitimate interests, so long as that legitimate interest does not override your fundamental rights, freedoms or interests;
-
-*Legal Obligation Reason: this is where we have to use your personal information in order to perform a legal obligation by which we are bound; and
-
-*Consent Reason: this is where you have given us your consent to use your personal information for a specific reason or specific reasons.
+* Contract Reason: this is in order to perform our obligations to you under a contract we have entered into with you;
+* Legitimate Interests Reason: this is where the use of your personal information is necessary for our (or a third party’s) legitimate interests, so long as that legitimate interest does not override your fundamental rights, freedoms or interests;
+* Legal Obligation Reason: this is where we have to use your personal information in order to perform a legal obligation by which we are bound; and
+* Consent Reason: this is where you have given us your consent to use your personal information for a specific reason or specific reasons.
 
 4.2. As explained in section 3 above, there are more sensitive types of personal data, which require higher levels of protection. We do not process such sensitive types of personal data.
 
@@ -116,65 +60,17 @@ specify how long these types of data will be kept
 
 4.5. Where we rely on consent for a specific purpose as the legal reason for processing your personal information, you have the right under data protection law to withdraw your consent at any time. If you do wish to withdraw your consent, please contact us using the details set out at the beginning of this notice. If we receive a request from you withdrawing your consent to a specific purpose, we will stop processing your personal information for that purpose, unless we have another legal reason for processing your personal information – in which case, we will confirm that reason to you.
 
-4.6. We have explained below the different purposes for which we use your personal information and, in each case, the legal reason(s) allowing us to use your personal information. Please also note the following:
+4.6. We have explained below the different purposes for which we use your personal information and, in each case, the legal reason(s) allowing us to use your personal information. Please also note that if we use the Legitimate Interests Reason as the legal reason for which we can use your personal information, we have also explained what that legitimate interest is; and for some of the purposes, we may have listed more than one legal reason on which we can use your personal information, because the legal reason may be different in different circumstances. If you need confirmation of the specific legal reason that we are relying on to use your personal data for that purpose, please contact us using the contact details set out at the start of this privacy notice.
 
-if we use the Legitimate Interests Reason as the legal reason for which we can use your personal information, we have also explained what that legitimate interest is; and
-
-for some of the purposes, we may have listed more than one legal reason on which we can use your personal information, because the legal reason may be different in different circumstances. If you need confirmation of the specific legal reason that we are relying on to use your personal data for that purpose, please contact us using the contact details set out at the start of this privacy notice.
-
-Purpose
-
-Legal Reason(s) for using the personal information
-
-To enrol you as a customer
-
-Contract Reason
-
-Legitimate Interests Reason (in order to [offer you other goods, services and/or digital content which helps us to develop our business)
-
-To process your order, which includes taking payment from you, advising you of any updates in relation to your order or any enforcement action against you to recover payment
-
-Contract Reason
-
-Legitimate Interests Reason (in order to [recover money that you owe us])
-
-To manage our contract with you and to notify you of any changes
-
-Contract Reason
-
-Legal Obligation Reason
-
-To comply with audit and accounting matters
-
-Legal Obligation Reason
-
-For record keeping, [including in relation to any guarantees or warranties provided as part of the sale of goods, services and/or digital content
-
-Contract Reason
-
-Legal Obligation Reason
-
-To improve the goods, services, and/or digital content that we supply
-
-Legitimate Interests Reason (in order to improve the goods, services, and/or digital content for future customers and to grow our business)
-
-To recommend and send communications to you about goods, services, and/or digital content that you may be interested in. More details about marketing are set out in section 11 below
-
-Legitimate Interests Reason (in order to grow our business
-
-Consent Reason
-
-To ensure the smooth running and correct operation of our website
-
-Legitimate Interests Reason (to ensure our website runs correctly)
-
-To understand how customers and visitors to our website use the website and interact with it via data analysis
-
-Legitimate Interests Reason (to improve and grow our business, including our website, and to understand our customer’s needs, desires and requirements)
-
-ANY OTHERS
-
-SET OUT REASONS AND IF RELYING ON LEGITIMATE INTERESTS, SET OUT THE LEGITIMATE INTERESTS
+* To enrol you as a customer: Contract Reason, Legitimate Interests Reason (in order to offer you other services which helps us to develop our business)
+* To process payment from you, including advising you of any updates or any enforcement action against you to recover payment: Contract Reason, Legitimate Interests Reason (in order to recover money that you owe us)
+* To manage our contract with you and to notify you of any changes: Contract Reason, Legal Obligation Reason
+* To comply with audit and accounting matters: Legal Obligation Reason
+* For record keeping, including in relation to any guarantees or warranties provided as part of the provision of services and/or digital content: Contract Reason, Legal Obligation Reason
+* To improve the goods, services, and/or digital content that we supply: Legitimate Interests Reason (in order to improve the goods, services, and/or digital content for future customers and to grow our business)
+* To recommend and send communications to you about goods, services, and/or digital content that you may be interested in. (more details about marketing are set out in section 11 below): Legitimate Interests Reason (in order to grow our business), Consent Reason
+* To ensure the smooth running and correct operation of our website: Legitimate Interests Reason (to ensure our website runs correctly)
+* To understand how customers and visitors to our website use the website and interact with it via data analysis: Legitimate Interests Reason (to improve and grow our business, including our website, and to understand our customer’s needs, desires and requirements) 
 
 4.7. Sometimes we may anonymise personal information so that you can no longer be identified from it and use this for our own purposes. In addition, sometimes we may use some of your personal information together with other people’s personal information to give us statistical information for our own purposes. Because this is grouped together with other personal information and you are not identifiable from that combined data we are able to use this.
 
@@ -217,15 +113,10 @@ SET OUT REASONS AND IF RELYING ON LEGITIMATE INTERESTS, SET OUT THE LEGITIMATE I
 10.1. Under data protection laws, you have certain rights in relation to your personal information, as follows:
 
 * Right to request access: (this is often called ‘subject access’). This is the right to obtain from us a copy of the personal information that we hold about you. We must also provide you with certain other information in response to these requests to help you understand how your personal information is being used.
-
 * Right to correction: this is the right to request that any incorrect personal data is corrected and that any incomplete personal data is completed.
-
 * Right to erasure: (this is often called the 'right to be forgotten').This right only applies in certain circumstances. Where it does apply, you have the right to request us to erase all of your personal information.
-
 * Right to restrict processing: this right only applies in certain circumstances. Where it does apply, you have the right to request us to restrict the processing of your personal information.
-
 * Right to data portability: this right allows you to request us to transfer your personal information to someone else.
-
 * Right to object: you have the right to object to us processing your personal information for direct marketing purposes. You also have the right to object to us processing personal information where our legal reason for doing so is the Legitimate Interests Reason (see section 4 above) and there is something about your particular situation that means that you want to object to us processing your personal information. In certain circumstances, you have the right to object to processing where such processing consists of profiling (including profiling for direct marketing).
 
 10.2. In addition to the rights set out in section 10.1, where we rely on consent as the legal reason for using your personal information, you have the right to withdraw your consent. Further details about this are set out in section 4.5.
