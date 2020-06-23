@@ -1,7 +1,9 @@
 title: Outside Context
 author:
-  name: +44 7592 533637
+  name: George Walkley
+  phone: +44 7592 533637
   email: hello@outsidecontext.co.uk
+  address: 14 Norman Drive, Salisbury, Wiltshire, SP4 6FP
 description: > # this means to ignore newlines until "show_excerpts:"
   Outside Context is a boutique consultancy specialising in strategy, research and development, digital transformation, and innovation.
 show_excerpts: false # set to true to show excerpts on the homepage
