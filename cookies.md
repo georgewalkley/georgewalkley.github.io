@@ -16,7 +16,7 @@ At present our website uses Performance Cookies only, in order to:
 * Obtain information about your preferences and use of our site
 * Carry out research and data analysis to help us to improve our content and services and to better understand our customer preferences and interests
 
-No third parties set cookies on our website.
+No third party cookies are set on our website.
 
 We have set out specific details of the cookies we use on our site in section 4 below.
 
