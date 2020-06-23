@@ -14,7 +14,7 @@ We may issue you with other privacy notices from time to time, including when we
 
 We may update this privacy notice from time to time. This version was last updated on 1 July 2020.
 
-__1. Key definitions
+###### 1. Key definitions
 
 1.1. The key terms that we use throughout this privacy notice are defined below, for ease:
 
@@ -26,7 +26,7 @@ __1. Key definitions
 
 1.5. Special Information – certain very sensitive personal information requires extra protection under data protection law. Sensitive data includes information relating to health, racial and ethnic origin, political opinions, religious and similar beliefs, trade union membership, sex life and sexual orientation and also includes genetic information and biometric information.
 
-__2. Details of personal information that we collect and hold about you
+###### 2. Details of personal information that we collect and hold about you
 
 2.1. Set out below are the general categories and in each case the types of personal information that we collect, use and hold about you:
 
@@ -39,11 +39,11 @@ __2. Details of personal information that we collect and hold about you
 
 2.2. The types of personal data we collect about you may differ from person to person, depending on who you are and the relationship between us.
 
-__3. Details of special information that we collect and hold about you
+###### 3. Details of special information that we collect and hold about you
 
 3.1. Special information is explained in section 1 above. We do not collect or hold any special information about you.
 
-__4. Details of how and why we use personal information
+###### 4. Details of how and why we use personal information
 
 4.1. We are only able to use your personal information for certain legal reasons set out in data protection law. There are legal reasons under data protection law other than those listed below; but, in most cases, we will use your personal information for the following legal reasons:
 
@@ -76,7 +76,7 @@ __4. Details of how and why we use personal information
 
 4.8. Under data protection laws, we can only use your personal information for the purposes we have told you about, unless we consider that the new purpose is compatible with the purpose(s) we told you about. If we want to use your personal information for a different purpose that we do not think is compatible with the purpose(s) we told you about, then we will contact you to explain this and what legal reason is in place to allow us to do this.
 
-__5. Details of how we collect personal information and special information
+###### 5. Details of how we collect personal information and special information
 
 5.1. We usually collect Identity Information, Contact Information, Payment Information, Transaction Information, Survey Information and Marketing Information directly from you when you fill out a form, survey or questionnaire, purchase services from us, or contact us by email, telephone, in writing or otherwise. This includes the personal information that you provide to us when you subscribe to our mailing list.
 
@@ -84,7 +84,7 @@ __5. Details of how we collect personal information and special information
 
 5.3. We may also receive Website, Device and Technical Information automatically from technologies such as cookies that are installed on our website. To find out more about these please see our cookie policy, which is available here.
 
-__6. Details about who personal Information may be shared with
+###### 6. Details about who personal Information may be shared with
 
 6.1. We may need to share your personal information with other organisations or people. These organisations include third parties who are not part of our group. These may include government and regulatory bodies, bankers and professional advisors such as lawyers and accountants.
 
@@ -92,15 +92,15 @@ __6. Details about who personal Information may be shared with
 
 6.3. We do not sell or trade any of the personal information that you have provided to us.
 
-__7. Details about transfers to countries outside of the EEA
+###### 7. Details about transfers to countries outside of the EEA
 
 7.1. We do not transfer your personal information outside of the EEA.
 
-__8. Details about how long we will hold your personal information
+###### 8. Details about how long we will hold your personal information
 
 8.1. We will only hold your personal data for as long as is necessary. How long is necessary will depend upon the purposes for which we collected the personal information (see section 4 above) and whether we are under any legal obligation to keep the personal information (such as in relation to accounting or auditing records or for tax reasons). We may also need to keep personal information in case of any legal claims , including in relation to any guarantees or warranties that we have provided with the goods services digital content. You can contact us (using the details at the beginning of this notice) to request a copy of our retention policy, which sets out how long different types of personal data will be kept for.
 
-__9. Automated decision making
+###### 9. Automated decision making
 
 9.1. ‘Automated decision making’ is where a decision is automatically made without any human involvement. Under data protection laws, this includes profiling. ‘Profiling’ is the automated processing of personal data to evaluate or analyse certain personal aspects of a person (such as their behaviour, characteristics, interests and preferences).
 
@@ -108,7 +108,7 @@ __9. Automated decision making
 
 9.3. We do not carry out any automated decision making (including profiling) that produces a legal effect or similarly significant effect on you. If we do decide to do this then we will notify you and we will inform you of the legal reason we are able to do this.
 
-__10. Your rights under data protection law
+###### 10. Your rights under data protection law
 
 10.1. Under data protection laws, you have certain rights in relation to your personal information, as follows:
 
@@ -123,7 +123,7 @@ __10. Your rights under data protection law
 
 10.3. If you want to exercise any of the above rights in relation to your personal information, please contact us using the details set out at the beginning of this notice. If you do make a request, then please note: we may need certain information from you so that we can verify your identity; we do not charge a fee for exercising your rights unless your request is unfounded or excessive; and if your request is unfounded or excessive, then we may refuse to deal with your request.
 
-__11. Marketing
+###### 11. Marketing
 
 11.1. You may receive marketing from us about similar goods and services, where either you have consented to this, or we have another legal reason by which we can contact you for marketing purposes.
 
@@ -133,10 +133,10 @@ __11. Marketing
 
 11.4. We do not pass your personal information on to any third parties for marketing purposes.
 
-__12. Complaints
+###### 12. Complaints
 
 12.1. If you are unhappy about the way that we have handled or used your personal information, you have the right to complain to the UK supervisory authority for data protection, which is the Information Commissioner’s Office (ICO). Please do contact us in the first instance if you wish to raise any queries or make a complaint in respect of our handling or use of your personal information, so that we have the opportunity to discuss this with you and to take steps to resolve the position. You can contact us using the details set out at the beginning of this privacy notice.
 
-__13. Third-party websites
+###### 13. Third-party websites
 
 Our website may contain links to third-party websites. If you click and follow those links, then these will take you to the third-party website. Those third-party websites may collect personal information from you and you will need to check their privacy notices to understand how your personal information is collected and used by them.
