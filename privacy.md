@@ -28,7 +28,7 @@ We may update this privacy notice from time to time. This version was last updat
 
 ##### 2. Details of personal information that we collect and hold about you
 
-2.1. Set out below are the general categories and details of retention periods in relation to those categories (see section 8 below for more details about retention) and in each case the types of personal information that we collect, use and hold about you:
+2.1. Set out below are the general categories and in each case the types of personal information that we collect, use and hold about you:
 
 * Contact information, such as email address, addresses, telephone numbers.
 * Payment information, relating to the methods by which you provide payment to us and details of any payments (including amounts and dates) that are made between us
