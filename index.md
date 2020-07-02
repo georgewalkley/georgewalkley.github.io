@@ -7,4 +7,4 @@
 #
 layout: home
 ---
-
+Outside Context is a boutique consultancy specialising in strategy, digital transformation and R&D. Our website is under construction but please don't hesitate to contact us if you would like to know more about our work.
