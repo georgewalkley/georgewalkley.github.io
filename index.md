@@ -7,4 +7,4 @@
 #
 layout: home
 ---
-Outside Context is a boutique consultancy specialising in strategy, digital transformation and R&D. Our website is under construction but please don't hesitate to contact us if you would like to know more about our work.
+Welcome to my website. I am an independent consultant based in Wiltshire, UK. After nearly twenty five years in the publishing industry, including senior executive roles in strategy and digital transformation, I now work on a freelance basis for a range of clients in the creative, media and publishing sectors. 
