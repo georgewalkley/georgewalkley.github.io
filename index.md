@@ -8,3 +8,6 @@
 layout: home
 ---
 Welcome to my website. I am an independent consultant based in Wiltshire, UK. After nearly twenty five years in the publishing industry, including senior executive roles in strategy and digital transformation, I now work on a freelance basis for a range of clients in the creative, media and publishing sectors. 
+
+Recent projects include
+* Advising
