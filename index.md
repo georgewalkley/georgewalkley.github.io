@@ -13,7 +13,7 @@ After nearly twenty five years in the publishing industry, including senior exec
 
 Recent projects include:
 * Advising UK audio startup <a href="https://www.xigxag.co.uk">Xigxag</a> on commercial strategy and publisher relations
-<!--* Advising leading arts communications agency <a href="https://midaspr.co.uk/">Midas</a> and literary agency <a href="https://www.thebksagency.com">bks</a> on their recent merger -->
+* Advising leading arts communications agency <a href="https://midaspr.co.uk/">Midas</a> on the acquisition of literary agency <a href="https://www.thebksagency.com">bks</a>
 * Developing a direct-to-consumer/ecommerce strategy for a publisher
 * Consulting on publishing industry trends and developments for clients including a private equity firm, publishers and startups
 
