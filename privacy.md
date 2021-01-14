@@ -4,11 +4,11 @@ title: Privacy and Cookie Policy
 permalink: /privacy/
 ---
 
-Outside Context Ltd is a company registered in England and Wales with company number 12584087, whose registered address is at {{ site.author.address | escape }}. This privacy policy explaina how we use the personal data we collect from you when you use our website.
+Outside Context Ltd is a company registered in England and Wales with company number 12584087, whose registered address is at {{ site.author.address | escape }}. This policy explains how we use the personal data we collect from you when you use our website.
 
 _Tl;dr: we treat your information in the same way we would want ours to be treated._ 
 
-We do not directly collect any personally identifiable information when you use this website. If you choose to book a meeting with us, we collect sufficient personal information to allow us to schedule the meeting you have requested. That information may be stored using third party services including <a href="https://policies.google.com/privacy">Google</a>, <a href="https://calendly.com/pages/privacy">Calendly</a> and <a href="https://zoom.us/privacy-and-legal">Zoom</a>, which have their own privacy policies at the links provided. 
+We do not directly collect any personally identifiable information when you use this website. If you choose to book a meeting with us, we collect sufficient personal information to allow us to schedule the meeting you have requested, on the basis of your consent and legitimate interest. That information may be stored using third party services including <a href="https://policies.google.com/privacy">Google</a>, <a href="https://calendly.com/pages/privacy">Calendly</a> and <a href="https://zoom.us/privacy-and-legal">Zoom</a>, which have their own privacy policies at the links provided. 
 
 Under data protection legislation you have the right to access copies of your personal data, to correct any information we hold that you believe is inaccurate or incomplete, to erase your personal data, and under certain conditions to object to or restrict our use of your personal data, or to transfer the data we have collected to another organisation or directly to you. If you make such a request we have one month to respond to you but we will always endeavour to respond more promptly. We will store any personal information provided for three years from your last contact with us, or until you ask us to remove it, whichever is earlier. 
 
