@@ -1,0 +1,12 @@
+---
+layout: post
+title:  "Week 1"
+---
+
+Three milestones this week: the first working week after the Christmas break, six months of self-employment, and the end of a major project that I had been working on since late September (and had been in the pipeline since July). Four if you count the decision to start posting the more or less weekly notes I’ve kept since starting the company. 
+
+I had mixed feelings about finishing the project. Most of the final work had been done in the week before Christmas: this week was for a project closedown with the two clients I had been working with most closely, followed by a celebratory Zoom with a wider group of stakeholders. There was a nice feeling of achievement and positive comments—but at the same time a nagging awareness that this had represented a large chunk of revenue for the company, and that it needs replacing (and that this project was a perfect example of the lag between initial discussions and billable work). 
+
+It’s probably a banal observation, but this is the biggest difference between my old life and self-employment. Previously, working for large, established businesses, I had to think about priorities and resources, but fundamentally I could focus on delivering objectives without really thinking about a pipeline of work. Now there’s a constant need to balance delivery and business development. That’s not to complain: this was a choice. And it turned out that the short-term answer to how I was feeling was to remember the advice of <a href="https://twitter.com/gtdguy">David Allen</a>, whom I worked with briefly in a previous life, and to get everything out of my head and into a trusted system, in this case a Trello board for the pipeline.
+
+The rest of the week was busy: wrapping up tasks that had rolled over from 2020, the VAT return, and a couple of speculative meetings with interesting new people as a result of a quick comment on a WhatsApp networking group. And Friday saw the first full team Zoom for everyone involved in Xigxag, employees and consultants. 
