@@ -9,7 +9,7 @@ layout: home
 ---
 Welcome to my website. I am an independent strategy consultant based in Wiltshire, UK. 
 
-After nearly twenty five years in the publishing industry, including senior executive roles in strategy, digital transformation and innovation, I now work om a freelance basis for clients in the creative, media and publishing sectors.
+After nearly twenty five years in the publishing industry, including senior executive roles in strategy, digital transformation and innovation, I now work on a freelance basis for clients in the creative, media and publishing sectors.
 
 Recent projects include:
 * Advising UK audio startup <a href="https://www.xigxag.co.uk">Xigxag</a> on commercial strategy and publisher relations
