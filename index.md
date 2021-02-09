@@ -7,7 +7,7 @@
 #
 layout: home
 ---
-Welcome to my website. After nearly twenty five years in books and publishing, including senior executive roles in strategy, digital transformation and innovation, I now run Outside Context, a boutique consulting firm working for clients in the creative, media and publishing sectors.
+Welcome to my website. After nearly twenty five years in books and publishing, including senior executive roles in strategy, digital transformation and innovation, I now run Outside Context, a boutique consulting firm working mainly for clients in the creative, media and publishing sectors.
 
 Recent projects include:
 * Advising UK audio startup <a href="https://www.xigxag.co.uk">Xigxag</a> on commercial strategy and publisher relations
