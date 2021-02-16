@@ -12,7 +12,7 @@ Recent projects include:
 * Designing and implementing a scenario planning exercise for a media business
 * Helping to articulate strategy, mission, vision and values for a creative services business
 * Developing a direct-to-consumer/ecommerce strategy for a publisher
-* Advising startups in the publishing, consumer and financial services sectors on positioning and pitch decks
+* Advising startups in the publishing, consumer, technology and financial services sectors on positioning, market sizing and pitch decks
 * Consulting on publishing industry trends and developments for clients including a private equity firm, publishers and startups
 
 To find out how we can help your organisation, <a href="https://calendly.com/outsidecontext">please don't hesitate to arrange a meeting through Calendly</a>. 
