@@ -7,5 +7,6 @@
 #
 layout: home
 ---
-Welcome to my website. After nearly twenty five years in books and publishing, including senior executive roles in strategy, digital transformation and innovation, I now run Outside Context, a boutique consulting firm working mainly for clients in the creative, media and publishing sectors.
+
+Welcome to my website, which includes information <a href="/george">about me</a>, details of <a href="/consulting">my work as a consultant</a> and <a href="/speaking">speaker</a>, and <a href="/weeknotes">weekly notes on projects and activities</a>.
 
