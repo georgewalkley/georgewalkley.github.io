@@ -4,7 +4,7 @@ title: Consulting
 permalink: /consulting/
 ---
 
-After nearly twenty five years in books and publishing, including senior executive roles in strategy, digital transformation and innovation, I now run Outside Context, a boutique consulting firm working mainly for clients in the creative, media and publishing sectors. With two employees and an extended network of specialists able to support where needed, we help organisations to develop clear, effective strategies for commercial growth and digital transformation. 
+After nearly twenty five years in publishing and media, including experience in corporates and startups, and senior executive roles in strategy, digital transformation and innovation, I now run Outside Context, a boutique consulting firm working mainly for clients in the creative, media and publishing sectors. With two employees and an extended network of specialists able to support where needed, we help organisations to develop clear, effective strategies for commercial growth and digital transformation. 
 
 Recent projects include:
 * Advising UK audiobooks startup <a href="https://www.xigxag.co.uk">Xigxag</a> on commercial strategy and publisher relations
