@@ -16,7 +16,7 @@ layout: home
 
 🗂 You can find <a href="/research/">research, data and presentations here</a>.
 
-💬 I'm <a href="/speaking/">an experienced and acclaimed speaker</a>, and have appeared at conferences, book fairs and coporate events, and on radio and podcasts. 
+💬 I'm <a href="/speaking/">an experienced and acclaimed speaker</a>, and have appeared at conferences, book fairs and corporate events, and on radio and podcasts. 
 
 📝 <a href="/weeknotes/">I publish regular weeknotes where I talk about what I'm working on</a>.
 
