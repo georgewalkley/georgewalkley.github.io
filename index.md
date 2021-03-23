@@ -8,10 +8,17 @@
 layout: home
 ---
 
-- 👋 Welcome to my website.
-- 👨🏻‍💻 I am a consultant, researcher and investor based in Wiltshire, UK. <a href="/george/">You can find information about me here</a>. 
-- 💡 <a href="/consulting/">Look here for information on Outside Context</a>, the consulting company I run. We mainly work with clients in the creative, media, publishing and startup worlds. 
-- 🗂 <a href="/research/">This page is the home for research, data and presentations that I've shared</a>.
-- ✒️ <a href="/weeknotes/">I publish regular weeknotes where I talk about what I'm working on</a>.
-- 📫 You can find contact information in the footer below, <a href="https://www.calendly.com/outsidecontext">or you can book a Zoom or phone call with me here</a>.
+👋 Welcome to my website.
+
+👨🏻‍💻 I am a consultant, researcher and investor based in Wiltshire, UK. <a href="/george/">You can find information about me here</a>. 
+
+💡 I run a consulting company called Outside Context. <a href="/consulting/">We mainly work with clients in the creative, media, publishing and startup worlds</a>. 
+
+🗂 You can find <a href="/research/">research, data and presentations here</a>.
+
+💬 I'm <a href="/speaking/">an experienced and acclaimed speaker</a>, and have appeared at conferences, book fairs and coporate events, and on radio and podcasts. 
+
+📝 <a href="/weeknotes/">I publish regular weeknotes where I talk about what I'm working on</a>.
+
+📫 You can find contact information in the footer below, <a href="https://www.calendly.com/outsidecontext">or you can book a Zoom or phone call with me here</a>.
 
