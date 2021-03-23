@@ -4,7 +4,7 @@ title: About George Walkley
 permalink: /george/
 ---
 
-I am a consultant specialising in media and publishing. 
+I am a consultant and researcher specialising in media and publishing. 
 
 I worked in the book business for nearly twenty five years, initially as a bookseller and then in online content development for Ottakar's Plc. In 2005 I moved to the publishing side as a marketing manager at Time Warner Book Group (soon after rebranded to Little, Brown Book Group), and went on to hold a series of senior marketing, digital and strategy roles there and at Little, Brown's parent company Hachette UK. 
 
