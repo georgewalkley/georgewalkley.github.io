@@ -8,9 +8,9 @@ permalink: /bookmarketstatistics/
 <a href="#eu">Europe</a><br />
 <a href="#de">Germany</a>
 
-<a name="gb"></a><h4>United Kingdom</h4>
+<h4>United Kingdom</h4>
 
-<table>
+<a name="gb"></a><table>
   {% for row in site.data.ukpa_annual %}
     {% if forloop.first %}
     <tr>
@@ -28,9 +28,9 @@ permalink: /bookmarketstatistics/
 
 Data: <a href="https://www.publishers.org.uk/our-work/publications/">Publishers Association</a>, last updated 22 July 2020
 
-<a name="eu"></a><h4>Europe</h4>
+<h4>Europe</h4>
 
-<table>
+<a name="eu"></a><table>
   {% for row in site.data.fep_estimates %}
     {% if forloop.first %}
     <tr>
@@ -48,9 +48,9 @@ Data: <a href="https://www.publishers.org.uk/our-work/publications/">Publishers 
 
 Data: <a href="https://fep-fee.eu/European-Book-Publishing-1268">Federation of European Publishers</a>, last updated 18 January 2021
 
-<a name="de"></a><h4>Germany</h4>
+<h4>Germany</h4>
 
-<table>
+<a name="de"></a><table>
   {% for row in site.data.bdb_annual %}
     {% if forloop.first %}
     <tr>
