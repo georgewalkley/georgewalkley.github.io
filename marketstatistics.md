@@ -69,4 +69,4 @@ Data: <a href="https://fep-fee.eu/European-Book-Publishing-1268">Federation of E
   {% endfor %}
 </table>
 
-Data: <a href="https://www.boersenverein.de/markt-daten/marktforschung/wirtschaftszahlen/">Börsenverein des Deutschen Buchhandels</a>, last updated 8 July 2020
+Data: <a href="https://www.boersenverein.de/markt-daten/marktforschung/wirtschaftszahlen/">Börsenverein des Deutschen Buchhandels</a>, <a href="https://data.worldbank.org/indicator/FP.CPI.TOTL?end=2019&locations=DE&start=2010">International Monetary Fund</a>, last updated 8 July 2020
