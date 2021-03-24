@@ -10,7 +10,8 @@ permalink: /bookmarketstatistics/
 
 <h4>United Kingdom</h4>
 
-<a name="gb"></a><table>
+<a name="gb"></a>
+<table>
   {% for row in site.data.ukpa_annual %}
     {% if forloop.first %}
     <tr>
@@ -30,7 +31,8 @@ Data: <a href="https://www.publishers.org.uk/our-work/publications/">Publishers 
 
 <h4>Europe</h4>
 
-<a name="eu"></a><table>
+<a name="eu"></a>
+<table>
   {% for row in site.data.fep_estimates %}
     {% if forloop.first %}
     <tr>
@@ -50,7 +52,8 @@ Data: <a href="https://fep-fee.eu/European-Book-Publishing-1268">Federation of E
 
 <h4>Germany</h4>
 
-<a name="de"></a><table>
+<a name="de"></a>
+<table>
   {% for row in site.data.bdb_annual %}
     {% if forloop.first %}
     <tr>
