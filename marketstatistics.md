@@ -4,8 +4,8 @@ title: Book Market Statistics
 permalink: /bookmarketstatistics/
 ---
 
-<a href="#gb">United Kingdom</a>
-<a href="#eu">Europe</a>
+<a href="#gb">United Kingdom</a><br />
+<a href="#eu">Europe</a><br />
 <a href="#de">Germany</a>
 
 <a name="gb"></a><h4>United Kingdom</a>
