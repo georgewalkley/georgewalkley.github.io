@@ -4,8 +4,29 @@ title: Book Market Statistics
 permalink: /bookmarketstatistics/
 ---
 
+<a href="#gb">United Kingdom</a>
 <a href="#eu">Europe</a>
 <a href="#de">Germany</a>
+
+<a name="gb"></a><h4>United Kingdom</a>
+
+<table>
+  {% for row in site.data.ukpa_annual %}
+    {% if forloop.first %}
+    <tr>
+      {% for pair in row %}
+        <th>{{ pair[0] }}</th>
+      {% endfor %}
+    </tr>
+    {% endif %}
+
+    {% tablerow pair in row %}
+      {{ pair[1] }}
+    {% endtablerow %}
+  {% endfor %}
+</table>
+
+Data: <a href="https://www.publishers.org.uk/our-work/publications/">Publishers Association</a>, last updated 22 July 2020
 
 <a name="eu"></a><h4>Europe</h4>
 
