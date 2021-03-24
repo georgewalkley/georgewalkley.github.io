@@ -8,7 +8,7 @@ permalink: /bookmarketstatistics/
 <a href="#eu">Europe</a><br />
 <a href="#de">Germany</a>
 
-<a name="gb"></a><h4>United Kingdom</a>
+<a name="gb"></a><h4>United Kingdom</h4>
 
 <table>
   {% for row in site.data.ukpa_annual %}
