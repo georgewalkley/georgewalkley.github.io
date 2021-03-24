@@ -4,6 +4,8 @@ title: Book Market Statistics
 permalink: /bookmarketstatistics/
 ---
 
+<h4>Europe</h4>
+
 <table>
   {% for row in site.data.fep_estimates %}
     {% if forloop.first %}
@@ -21,6 +23,8 @@ permalink: /bookmarketstatistics/
 </table>
 
 Data: <a href="https://fep-fee.eu/European-Book-Publishing-1268">Federation of European Publishers</a>, last updated 18 January 2021
+
+<h4>Germany</h4>
 
 <table>
   {% for row in site.data.bdb_annual %}
