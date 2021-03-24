@@ -20,8 +20,9 @@ permalink: /bookmarketstatistics/
       {{ pair[1] }}
     {% endtablerow %}
   {% endfor %}
-Data: <a href="https://fep-fee.eu/European-Book-Publishing-1268">Federation of European Publishers</a>, last updated 18 January 2021
 </table>
+
+Data: <a href="https://fep-fee.eu/European-Book-Publishing-1268">Federation of European Publishers</a>, last updated 18 January 2021
 
 <h4>Germany</h4>
 
@@ -39,6 +40,6 @@ Data: <a href="https://fep-fee.eu/European-Book-Publishing-1268">Federation of E
       {{ pair[1] }}
     {% endtablerow %}
   {% endfor %}
-Data: <a href="https://www.boersenverein.de/markt-daten/marktforschung/wirtschaftszahlen/">Börsenverein des Deutschen Buchhandels</a>, last updated 8 July 2020
 </table>
 
+Data: <a href="https://www.boersenverein.de/markt-daten/marktforschung/wirtschaftszahlen/">Börsenverein des Deutschen Buchhandels</a>, last updated 8 July 2020
