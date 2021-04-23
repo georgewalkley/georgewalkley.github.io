@@ -12,6 +12,8 @@ Welcome to my website. Like my working life it reflects a range of activities an
 
 <a href="/consulting/">I run a consulting company called Outside Context</a>. We help clients in the creative, media, publishing and startup worlds with strategy, digital transformation and commercial development. (If you are organising a conference or event, <a href="/speaking/">I'm an experienced speaker on those topics</a>.)
 
+I'm also a part-time doctoral researcher (DBA) at the University of the West of England. 
+
 For a sense of what projects I'm working on at present, <a href="/weeknotes/">you can read my weeknotes</a>.
 
 <a href="/george/">You can find out more about my background and experience here</a>.
